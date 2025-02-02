@@ -6,7 +6,7 @@ This is a simple Spring Boot API that provides a basic endpoint returning basic 
 
 Ensure you have the following installed on your system:
 
-- **Java 17+** (JDK 17 or later)
+- **Java 23+** (JDK 17 or later)
 - **Maven 3+** (for dependency management)
 - **Git** (to clone the repository)
 - **Postman or cURL** (to test the API, optional)
