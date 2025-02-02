@@ -10,6 +10,6 @@ public class GetInfoService {
     public Response stageInfo() {
         String currentTime = Instant.now().toString();
 
-        return new Response("igbokwevictor122@gmail.com", currentTime, "github.com");
+        return new Response("igbokwevictor122@gmail.com", currentTime, "https://github.com/meysdays/HNG12/tree/master/restapi");
     }
 }
